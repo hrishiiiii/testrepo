@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Prompt the user to enter their name
+echo "What is your name?"
+read name
+
+# Print a greeting with the user's name
+echo "Hello, $name! Nice to meet you."
+
